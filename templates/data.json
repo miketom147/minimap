@@ -1,0 +1,17 @@
+{
+  "mike": {
+    "name": "mike.png",
+    "x":  -7950,
+    "y":  2110,
+    "width": 229
+    "height": 208
+  },
+  "imagen2": {
+    "name": "imagen2.png",
+    "x": 0,
+    "y":  0,
+    "width": 0,
+    "height": 0
+}
+  
+}
